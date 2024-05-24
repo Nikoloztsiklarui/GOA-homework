@@ -1,0 +1,8 @@
+i1 = int(input("enter integer:"))
+print(i1)
+i2 = (input("enter string:"))
+print(i2)
+i3 = float(input("enter float:"))
+print(i3)
+i4 = bool(input("enter boolean:"))
+print(i4)

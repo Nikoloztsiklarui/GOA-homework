@@ -1,0 +1,6 @@
+true1=(8>5)
+false1=(5>8)
+or1=(false1 or true1)
+and1=(false1 and true1)
+print(or1)
+print(and1)
