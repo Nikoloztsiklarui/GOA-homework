@@ -1,5 +1,5 @@
 name=nikoloz
-print(nikoloz"
+print("nikoloz")
 print'nick'
 name-nikoloz
 name nick
