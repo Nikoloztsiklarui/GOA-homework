@@ -1,0 +1,1 @@
+სიებზე და slicingze varjisobdit
